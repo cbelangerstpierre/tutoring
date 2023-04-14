@@ -1,0 +1,156 @@
+[
+  {
+    "id": 0,
+    "title": "Java Swing CRUD App for Show Management",
+    "description": "Manage shows with Java Swing CRUD app with form validation and menu navigation.",
+    "review": "",
+    "tags": ["Java", "Swing", "UI", "OOP", "CRUD"],
+    "educationLevel": "College",
+    "difficulty": 2,
+    "date": "11/04/2023",
+    "phone": "514-953-4277"
+  },
+  {
+    "id": 1,
+    "title": "JS TABLE",
+    "description": "",
+    "review": "",
+    "tags": "",
+    "educationLevel": "",
+    "difficulty": 0,
+    "date": "07/04/2023",
+    "phone": "514-550-4186"
+  },
+  {
+    "id": 2,
+    "title": "Sabrina React",
+    "description": "",
+    "review": "",
+    "tags": "",
+    "educationLevel": "",
+    "difficulty": 0,
+    "date": "",
+    "phone": "514-952-9482"
+  },
+  {
+    "id": 3,
+    "title": "Mathématiques discrètes (Collégial)",
+    "description": "",
+    "review": "",
+    "tags": "",
+    "educationLevel": "",
+    "difficulty": 0,
+    "date": "",
+    "phone": ""
+  },
+  {
+    "id": 4,
+    "title": "TypeScript Car Parts Database with CRUD Operations",
+    "description": "This is a TypeScript project that creates an interface for a car parts inventory. It retrieves input data from the user, stores it in local storage, and displays it in a table. The project includes functions for adding, modifying, and deleting items from the table. It also includes a function for sorting the table by the total value of each item in the inventory.",
+    "review": "",
+    "tags": ["Typescript", "CRUD", "UI", "database", "HTML", "CSS"],
+    "educationLevel": "College",
+    "difficulty": 2,
+    "date": "22/11/2022",
+    "phone": ""
+  },
+  {
+    "id": 5,
+    "title": "React portfolio Anthony",
+    "description": "",
+    "review": "",
+    "tags": "",
+    "educationLevel": "",
+    "difficulty": 0,
+    "date": "",
+    "phone": "613-413-3790"
+  },
+  {
+    "id": 6,
+    "title": "Anthony JS game dungeon",
+    "description": "",
+    "review": "",
+    "tags": "",
+    "educationLevel": "",
+    "difficulty": 0,
+    "date": "",
+    "phone": ""
+  },
+  {
+    "id": 7,
+    "title": "Anthony JS C# OOP",
+    "description": "",
+    "review": "",
+    "tags": "",
+    "educationLevel": "",
+    "difficulty": 0,
+    "date": "",
+    "phone": ""
+  },
+  {
+    "id": 8,
+    "title": "Diana",
+    "description": "",
+    "review": "",
+    "tags": "",
+    "educationLevel": "",
+    "difficulty": 0,
+    "date": "",
+    "phone": ""
+  },
+  {
+    "id": 9,
+    "title": "Fille Python d'il y a longtemps",
+    "description": "",
+    "review": "",
+    "tags": "",
+    "educationLevel": "",
+    "difficulty": 0,
+    "date": "",
+    "phone": ""
+  },
+  {
+    "id": 10,
+    "title": "Jean-Cristophe",
+    "description": "",
+    "review": "",
+    "tags": "",
+    "educationLevel": "",
+    "difficulty": 0,
+    "date": "",
+    "phone": ""
+  },
+  {
+    "id": 11,
+    "title": "Jean-Nicolas",
+    "description": "",
+    "review": "",
+    "tags": "",
+    "educationLevel": "",
+    "difficulty": 0,
+    "date": "",
+    "phone": ""
+  },
+  {
+    "id": 12,
+    "title": "Rayssa",
+    "description": "",
+    "review": "",
+    "tags": "",
+    "educationLevel": "",
+    "difficulty": 0,
+    "date": "",
+    "phone": ""
+  },
+  {
+    "id": 13,
+    "title": "Rayeeda",
+    "description": "",
+    "review": "",
+    "tags": "",
+    "educationLevel": "",
+    "difficulty": 0,
+    "date": "",
+    "phone": ""
+  }
+]

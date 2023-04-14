@@ -1,0 +1,40 @@
+header {
+    display: flex;
+    height: 10%;
+    background-color: #2A2E31;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 1em;
+
+    * {
+        color: white;
+    }
+
+    .left {
+        height: 75%;
+        display: flex;
+        align-items: center;
+        gap: .5em;
+
+        a {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+    
+            img {
+                height: 100%;
+            }
+        }
+
+        p {
+            font-size: xx-large;
+            font-weight: bold;
+        }
+
+    }
+
+    p {
+        margin: 0;
+        padding: 0;
+    }
+}

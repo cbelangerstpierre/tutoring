@@ -6,6 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  // Oublie pas de changer le titre !
+  // Oublie pas de changer le titre ! Et aussi le favicon à la racine.
   title = 'tutoring';
 }
